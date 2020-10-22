@@ -21,7 +21,7 @@
 	<form action="search " class="mt-3">
 	
 	
-	<div calss="form-group">
+	<div class="form-group">
 	<input type="text" name="querybox"  placeholder="Enter Your Keyword" class="form-control" />
 	
 	
